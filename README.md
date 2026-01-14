@@ -1,1 +1,2 @@
-# practica1-docker-github
+# Autor
+alegonol3
