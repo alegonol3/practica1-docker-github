@@ -1,2 +1,2 @@
-# Autor
-alegonol3
+## Descripción del proyecto
+Proyecto de prácticas de Git para DAW.
